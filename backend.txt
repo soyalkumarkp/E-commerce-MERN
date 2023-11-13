@@ -1,0 +1,1 @@
+npm i dotenv bcrypt jsonwebtoken nodemailer cookie-parser express mongoose for backend 
